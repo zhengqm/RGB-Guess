@@ -14,6 +14,7 @@
 		ADDAD4151B401FAC0021A5A4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = ADDAD4131B401FAC0021A5A4 /* LaunchScreen.xib */; };
 		ADDAD4211B401FAC0021A5A4 /* RGB_GuessTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADDAD4201B401FAC0021A5A4 /* RGB_GuessTests.swift */; };
 		ADDAD42B1B404E280021A5A4 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = ADDAD42A1B404E280021A5A4 /* .gitignore */; };
+		ADDAD42D1B404E930021A5A4 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = ADDAD42C1B404E930021A5A4 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		ADDAD41F1B401FAC0021A5A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ADDAD4201B401FAC0021A5A4 /* RGB_GuessTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RGB_GuessTests.swift; sourceTree = "<group>"; };
 		ADDAD42A1B404E280021A5A4 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		ADDAD42C1B404E930021A5A4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		ADDAD3FC1B401FAC0021A5A4 = {
 			isa = PBXGroup;
 			children = (
+				ADDAD42C1B404E930021A5A4 /* README.md */,
 				ADDAD42A1B404E280021A5A4 /* .gitignore */,
 				ADDAD4071B401FAC0021A5A4 /* RGB Guess */,
 				ADDAD41D1B401FAC0021A5A4 /* RGB GuessTests */,
@@ -216,6 +219,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ADDAD42D1B404E930021A5A4 /* README.md in Sources */,
 				ADDAD40D1B401FAC0021A5A4 /* ViewController.swift in Sources */,
 				ADDAD40B1B401FAC0021A5A4 /* AppDelegate.swift in Sources */,
 			);
