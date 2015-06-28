@@ -4,4 +4,4 @@
 + App usage: Train your feeling or colors
 + Demo:
 
-<img src="demo.gif" alt="Drawing" style="width: 150px;"/>
+<img src="demo.gif" alt="Drawing" width="200"/>
